@@ -3,12 +3,123 @@
   "WorkspaceRootPath": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miguel Angel\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6839600-b595-4b46-999a-7cd918490682\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\crm_mdasoporteti.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\crm_mdasoporteti.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\crm_mdasoporteti.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\crm_mdasoporteti.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\usecases\\solicitudes\\listarsolicitudeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\usecases\\solicitudes\\listarsolicitudeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.infrastructure\\configuration\\slaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|solutionrelative:src\\crm_mdasoporteti.infrastructure\\configuration\\slaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.infrastructure\\configuration\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|solutionrelative:src\\crm_mdasoporteti.infrastructure\\configuration\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.infrastructure\\configuration\\emailoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|solutionrelative:src\\crm_mdasoporteti.infrastructure\\configuration\\emailoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\dtos\\requests\\solicitudrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\dtos\\requests\\solicitudrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\controllers\\solicitudescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\controllers\\solicitudescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1814DC-965B-3C80-D7D2-FED65AE11F90}|src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.shared\\errors\\sperrormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1814DC-965B-3C80-D7D2-FED65AE11F90}|src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj|solutionrelative:src\\crm_mdasoporteti.shared\\errors\\sperrormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1814DC-965B-3C80-D7D2-FED65AE11F90}|src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.shared\\errors\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1814DC-965B-3C80-D7D2-FED65AE11F90}|src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj|solutionrelative:src\\crm_mdasoporteti.shared\\errors\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\dependencyinjection\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\dependencyinjection\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\usecases\\solicitudes\\obtenersolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\usecases\\solicitudes\\obtenersolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\usecases\\solicitudes\\concluirsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\usecases\\solicitudes\\concluirsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\usecases\\solicitudes\\actualizarestatussolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\usecases\\solicitudes\\actualizarestatussolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\usecases\\solicitudes\\asignarsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\usecases\\solicitudes\\asignarsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\usecases\\solicitudes\\actualizarsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\usecases\\solicitudes\\actualizarsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\usecases\\solicitudes\\crearsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\usecases\\solicitudes\\crearsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\validations\\solicitudes\\listarsolicitudesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\validations\\solicitudes\\listarsolicitudesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\validations\\solicitudes\\actualizarestatussolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\validations\\solicitudes\\actualizarestatussolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\validations\\solicitudes\\actualizarsolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\validations\\solicitudes\\actualizarsolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\validations\\solicitudes\\asignarsolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\validations\\solicitudes\\asignarsolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\validations\\solicitudes\\crearsolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\validations\\solicitudes\\crearsolicitudvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\dtos\\responses\\solicitudresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\dtos\\responses\\solicitudresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\controllers\\crmbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\controllers\\crmbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1814DC-965B-3C80-D7D2-FED65AE11F90}|src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.shared\\crm_mdasoporteti.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B1814DC-965B-3C80-D7D2-FED65AE11F90}|src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj|solutionrelative:src\\crm_mdasoporteti.shared\\crm_mdasoporteti.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.infrastructure\\dependencyinjection\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51560AA-766D-BF8C-A7C5-07F637E29756}|src\\CRM_MDaSoporteTI.Infrastructure\\CRM_MDaSoporteTI.Infrastructure.csproj|solutionrelative:src\\crm_mdasoporteti.infrastructure\\dependencyinjection\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +129,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CRM_MDaSoporteTI.Application",
-              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
-              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
-              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
-              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
+              "DocumentIndex": 7,
+              "Title": "EmailOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\EmailOptions.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\EmailOptions.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\EmailOptions.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\EmailOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:58:38.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\AuthOptions.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\AuthOptions.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\AuthOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:57:54.013Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlaOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\SlaOptions.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\SlaOptions.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\SlaOptions.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Infrastructure\\Configuration\\SlaOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T15:00:22.48Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:00:01.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T21:44:41.607Z",
               "EditorCaption": ""
             },
             {
@@ -75,7 +228,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ListarSolicitudesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ListarSolicitudesHandler.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ListarSolicitudesHandler.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ListarSolicitudesHandler.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ListarSolicitudesHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:26:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CRM_MDaSoporteTI.Api",
               "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj",
               "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj",
@@ -83,7 +249,319 @@
               "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T14:59:52.959Z",
+              "WhenOpened": "2026-09-09T21:05:33.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\appsettings.json",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T20:52:41.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6839600-b595-4b46-999a-7cd918490682\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6839600-b595-4b46-999a-7cd918490682\\secrets.json",
+              "ToolTip": "C:\\Users\\Miguel Angel\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6839600-b595-4b46-999a-7cd918490682\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6839600-b595-4b46-999a-7cd918490682\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T20:54:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SolicitudRequests.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\DTOs\\Requests\\SolicitudRequests.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\DTOs\\Requests\\SolicitudRequests.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\DTOs\\Requests\\SolicitudRequests.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\DTOs\\Requests\\SolicitudRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:15:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SolicitudesController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Controllers\\SolicitudesController.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\Controllers\\SolicitudesController.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Controllers\\SolicitudesController.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\Controllers\\SolicitudesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:27:36.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpErrorMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Shared\\Errors\\SpErrorMapper.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Shared\\Errors\\SpErrorMapper.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Shared\\Errors\\SpErrorMapper.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Shared\\Errors\\SpErrorMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:08:18.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorCodes.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Shared\\Errors\\ErrorCodes.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Shared\\Errors\\ErrorCodes.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Shared\\Errors\\ErrorCodes.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Shared\\Errors\\ErrorCodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:31:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ObtenerSolicitudHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ObtenerSolicitudHandler.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ObtenerSolicitudHandler.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ObtenerSolicitudHandler.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ObtenerSolicitudHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:25:43.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConcluirSolicitudHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ConcluirSolicitudHandler.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ConcluirSolicitudHandler.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ConcluirSolicitudHandler.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ConcluirSolicitudHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:25:02.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\DependencyInjection\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\DependencyInjection\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\DependencyInjection\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\DependencyInjection\\ApplicationServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:02:37.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActualizarEstatusSolicitudHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarEstatusSolicitudHandler.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarEstatusSolicitudHandler.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarEstatusSolicitudHandler.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarEstatusSolicitudHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:24:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsignarSolicitudHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\AsignarSolicitudHandler.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\AsignarSolicitudHandler.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\AsignarSolicitudHandler.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\AsignarSolicitudHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:24:13.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ActualizarSolicitudHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarSolicitudHandler.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarSolicitudHandler.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarSolicitudHandler.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\ActualizarSolicitudHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:23:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrearSolicitudHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\CrearSolicitudHandler.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\CrearSolicitudHandler.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\CrearSolicitudHandler.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\UseCases\\Solicitudes\\CrearSolicitudHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:22:25.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListarSolicitudesValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ListarSolicitudesValidator.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ListarSolicitudesValidator.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ListarSolicitudesValidator.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ListarSolicitudesValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:21:29.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActualizarEstatusSolicitudValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarEstatusSolicitudValidator.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarEstatusSolicitudValidator.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarEstatusSolicitudValidator.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarEstatusSolicitudValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:20:55.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AsignarSolicitudValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\AsignarSolicitudValidator.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\AsignarSolicitudValidator.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\AsignarSolicitudValidator.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\AsignarSolicitudValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:19:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActualizarSolicitudValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarSolicitudValidator.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarSolicitudValidator.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarSolicitudValidator.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\ActualizarSolicitudValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:18:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CrearSolicitudValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\CrearSolicitudValidator.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\CrearSolicitudValidator.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\CrearSolicitudValidator.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\Validations\\Solicitudes\\CrearSolicitudValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:17:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SolicitudResponses.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\DTOs\\Responses\\SolicitudResponses.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\DTOs\\Responses\\SolicitudResponses.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\DTOs\\Responses\\SolicitudResponses.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\DTOs\\Responses\\SolicitudResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:16:20.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CRM_MDaSoporteTI.Shared",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Shared\\CRM_MDaSoporteTI.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T21:09:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Program.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:05:25.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CrmBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Controllers\\CrmBaseController.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\Controllers\\CrmBaseController.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Controllers\\CrmBaseController.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\Controllers\\CrmBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:05:00.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:03:33.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InfrastructureServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:00:39.478Z",
               "EditorCaption": ""
             }
           ]

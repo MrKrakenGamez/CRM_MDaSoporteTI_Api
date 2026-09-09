@@ -12,4 +12,21 @@
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Mappings\" />
+    <Folder Include="Common\Behaviors\" />
+    <Folder Include="Common\Helpers\" />
+    <Folder Include="Interfaces\Infrastructure\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Interfaces\Repositories\" />
+    <Folder Include="UseCases\Actividades\" />
+    <Folder Include="UseCases\ToDos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRM_MDaSoporteTI.Domain\CRM_MDaSoporteTI.Domain.csproj" />
+    <ProjectReference Include="..\CRM_MDaSoporteTI.Infrastructure\CRM_MDaSoporteTI.Infrastructure.csproj" />
+    <ProjectReference Include="..\CRM_MDaSoporteTI.Shared\CRM_MDaSoporteTI.Shared.csproj" />
+  </ItemGroup>
+
 </Project>
