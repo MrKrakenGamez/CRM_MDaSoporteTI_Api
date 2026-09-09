@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.api\\crm_mdasoporteti.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77647815-847B-4EF4-A4E2-B44C25D00399}|src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj|solutionrelative:src\\crm_mdasoporteti.api\\crm_mdasoporteti.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|c:\\users\\miguel angel\\documents\\desarrollosc#\\mdati_crm\\backend_crmmda\\crm_mdasoporteti\\src\\crm_mdasoporteti.application\\crm_mdasoporteti.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F78665C-0DDE-4153-BA79-FDEC40C4813D}|src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj|solutionrelative:src\\crm_mdasoporteti.application\\crm_mdasoporteti.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRM_MDaSoporteTI.Application",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Application\\CRM_MDaSoporteTI.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T15:00:22.48Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -50,6 +72,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRM_MDaSoporteTI.Api",
+              "DocumentMoniker": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj",
+              "RelativeDocumentMoniker": "src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj",
+              "ToolTip": "C:\\Users\\Miguel Angel\\Documents\\DesarrollosC#\\MDATI_CRM\\BackEnd_CrmMDA\\CRM_MDaSoporteTI\\src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj",
+              "RelativeToolTip": "src\\CRM_MDaSoporteTI.Api\\CRM_MDaSoporteTI.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T14:59:52.959Z",
+              "EditorCaption": ""
             }
           ]
         },
